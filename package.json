@@ -1,0 +1,9 @@
+{
+  "name": "domlib.js",
+  "version": "1.0.0",
+  "description": "A lightweight DOM library for creating nested DOM structures, based on the node event emitter",
+  "main": "index.js",
+  "repository": "",
+  "author": "Patrik Stutz",
+  "license": "GPL"
+}
